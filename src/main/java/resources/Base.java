@@ -27,7 +27,7 @@ public class Base {
 		FileInputStream fis = new FileInputStream(fileLocation);
 		prop.load(fis);
 		
-		//invoking Browser Capabilities through maven Command test -Dbrowser=chrome
+		//invoking Browser Capabilities through maven Command test -Dbrowser
 		webBrowser=System.getProperty("browser");
 		//webBrowser = prop.getProperty("browser");
 		if (webBrowser.equalsIgnoreCase("IE")) {
