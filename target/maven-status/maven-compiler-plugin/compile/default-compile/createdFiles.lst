@@ -1,0 +1,11 @@
+resources\TestngListener.class
+objectRepositoryPageFactory\RediffLogin.class
+resources\ExtentReportUtility.class
+objectRepositoryPageFactory\JioLogin.class
+objectRepositoryPageFactory\JioHome.class
+resources\Base.class
+objectRepositoryPageFactory\RediffHome.class
+objectRepositoryPOM\Login.class
+objectRepositoryPageFactory\OutlookLogin.class
+objectRepositoryPOM\Home.class
+objectRepositoryPageFactory\OutlookHome.class

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="resources.TestngListener"/>
+  </listeners>
+  <test thread-count="5" name="Outlook(failed)">
+    <classes>
+      <class name="automation.hybridFrameWork.Outlook">
+        <methods>
+          <include name="OutlookLogin" invocation-numbers="0"/>
+          <include name="initialise"/>
+          <include name="driverclose"/>
+        </methods>
+      </class> <!-- automation.hybridFrameWork.Outlook -->
+    </classes>
+  </test> <!-- Outlook(failed) -->
+  <test thread-count="5" name="Rediff(failed)">
+    <classes>
+      <class name="automation.hybridFrameWork.Rediff">
+        <methods>
+          <include name="RediffLogin" invocation-numbers="0"/>
+          <include name="initialise"/>
+          <include name="driverclose"/>
+        </methods>
+      </class> <!-- automation.hybridFrameWork.Rediff -->
+    </classes>
+  </test> <!-- Rediff(failed) -->
+</suite> <!-- Failed suite [Suite] -->

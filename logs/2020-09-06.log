@@ -1,0 +1,9 @@
+[INFO ] 2020-09-06 20:04:15.915 [TestNG-tests-1] Outlook - Initializing of Driver Started
+[INFO ] 2020-09-06 20:04:27.149 [TestNG-tests-2] Jiomart - Log Driver Successfully Initialized
+[INFO ] 2020-09-06 20:04:36.853 [TestNG-tests-1] Outlook - Log Driver Successfully Initialized
+[INFO ] 2020-09-06 20:04:42.570 [TestNG-tests-1] Outlook - successfuly clicked on Sign in page
+[INFO ] 2020-09-06 20:04:51.983 [TestNG-tests-1] Outlook - successfully browser is closed
+[INFO ] 2020-09-06 20:04:56.286 [TestNG-tests-2] Jiomart - Signin test case successfully executed
+[INFO ] 2020-09-06 20:05:15.718 [TestNG-tests-2] Rediff - Log Driver Successfully Initialized
+[INFO ] 2020-09-06 20:05:16.525 [TestNG-tests-2] Rediff - sign in Link Clicked Successfully
+[INFO ] 2020-09-06 20:05:19.813 [TestNG-tests-2] Rediff - SignUp test case successfully executed

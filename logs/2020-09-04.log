@@ -1,0 +1,27 @@
+[INFO ] 2020-09-04 17:21:00.216 [main] Outlook - Initializing of Driver Started
+[INFO ] 2020-09-04 17:21:46.877 [main] Outlook - Log Driver Successfully Initialized
+[INFO ] 2020-09-04 17:21:54.520 [main] Outlook - successfuly clicked on Sign in page
+[INFO ] 2020-09-04 17:22:06.196 [main] Outlook - SignUp test case successfully executed
+[INFO ] 2020-09-04 17:22:16.989 [main] Outlook - successfully browser is closed
+[INFO ] 2020-09-04 17:22:29.294 [main] Jiomart - Log Driver Successfully Initialized
+[INFO ] 2020-09-04 17:22:50.283 [main] Jiomart - Signin test case successfully executed
+[INFO ] 2020-09-04 17:23:07.028 [main] Rediff - Log Driver Successfully Initialized
+[INFO ] 2020-09-04 17:23:16.574 [main] Rediff - SignUp test case successfully executed
+[INFO ] 2020-09-04 10:03:19.514 [main] Outlook - Initializing of Driver Started
+[INFO ] 2020-09-04 10:05:30.653 [main] Outlook - Initializing of Driver Started
+[INFO ] 2020-09-04 10:06:12.730 [main] Outlook - Log Driver Successfully Initialized
+[INFO ] 2020-09-04 10:06:23.905 [main] Outlook - successfuly clicked on Sign in page
+[INFO ] 2020-09-04 10:06:25.758 [main] Outlook - SignUp test case successfully executed
+[INFO ] 2020-09-04 10:06:33.409 [main] Outlook - successfully browser is closed
+[INFO ] 2020-09-04 10:12:50.790 [main] Outlook - Initializing of Driver Started
+[INFO ] 2020-09-04 10:13:05.330 [main] Outlook - Log Driver Successfully Initialized
+[INFO ] 2020-09-04 10:13:08.912 [main] Outlook - successfuly clicked on Sign in page
+[INFO ] 2020-09-04 10:13:10.803 [main] Outlook - SignUp test case successfully executed
+[INFO ] 2020-09-04 10:13:16.533 [main] Outlook - successfully browser is closed
+[INFO ] 2020-09-04 10:14:48.767 [main] Jiomart - Log Driver Successfully Initialized
+[INFO ] 2020-09-04 10:15:10.280 [main] Jiomart - Signin test case successfully executed
+[INFO ] 2020-09-04 12:52:20.427 [main] Outlook - Initializing of Driver Started
+[INFO ] 2020-09-04 12:53:04.504 [main] Outlook - Log Driver Successfully Initialized
+[INFO ] 2020-09-04 12:53:13.477 [main] Outlook - successfuly clicked on Sign in page
+[INFO ] 2020-09-04 12:53:17.027 [main] Outlook - SignUp test case successfully executed
+[INFO ] 2020-09-04 12:53:24.206 [main] Outlook - successfully browser is closed

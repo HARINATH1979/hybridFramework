@@ -1,0 +1,35 @@
+[INFO ] 2020-09-05 18:06:17.791 [main] Outlook - Initializing of Driver Started
+[INFO ] 2020-09-05 18:06:48.472 [main] Outlook - Log Driver Successfully Initialized
+[INFO ] 2020-09-05 18:06:56.168 [main] Outlook - successfuly clicked on Sign in page
+[INFO ] 2020-09-05 18:07:05.910 [main] Outlook - SignUp test case successfully executed
+[INFO ] 2020-09-05 18:07:13.437 [main] Outlook - successfully browser is closed
+[INFO ] 2020-09-05 18:07:36.863 [main] Jiomart - Log Driver Successfully Initialized
+[INFO ] 2020-09-05 18:07:57.238 [main] Jiomart - Signin test case successfully executed
+[INFO ] 2020-09-05 18:08:12.611 [main] Rediff - Log Driver Successfully Initialized
+[INFO ] 2020-09-05 18:08:18.024 [main] Rediff - SignUp test case successfully executed
+[INFO ] 2020-09-05 19:33:40.535 [main] Rediff - Log Driver Successfully Initialized
+[INFO ] 2020-09-05 19:33:54.752 [main] Rediff - SignUp test case successfully executed
+[INFO ] 2020-09-05 19:35:27.849 [main] Rediff - Log Driver Successfully Initialized
+[INFO ] 2020-09-05 19:35:48.331 [main] Rediff - SignUp test case successfully executed
+[INFO ] 2020-09-05 19:52:52.241 [main] Rediff - Log Driver Successfully Initialized
+[INFO ] 2020-09-05 19:52:59.541 [main] Rediff - sign in Link Clicked Successfully
+[INFO ] 2020-09-05 19:53:50.930 [main] Rediff - SignUp test case successfully executed
+[INFO ] 2020-09-05 19:59:14.182 [main] Rediff - Log Driver Successfully Initialized
+[INFO ] 2020-09-05 19:59:19.109 [main] Rediff - sign in Link Clicked Successfully
+[INFO ] 2020-09-05 19:59:21.729 [main] Rediff - SignUp test case successfully executed
+[INFO ] 2020-09-05 20:00:42.194 [main] Rediff - Log Driver Successfully Initialized
+[INFO ] 2020-09-05 20:00:51.337 [main] Rediff - sign in Link Clicked Successfully
+[INFO ] 2020-09-05 20:01:01.410 [main] Rediff - SignUp test case successfully executed
+[INFO ] 2020-09-05 20:05:39.049 [main] Rediff - Log Driver Successfully Initialized
+[INFO ] 2020-09-05 20:05:40.254 [main] Rediff - sign in Link Clicked Successfully
+[INFO ] 2020-09-05 20:05:46.272 [main] Rediff - SignUp test case successfully executed
+[INFO ] 2020-09-05 21:56:30.675 [main] Outlook - Initializing of Driver Started
+[INFO ] 2020-09-05 21:57:11.636 [main] Outlook - Log Driver Successfully Initialized
+[INFO ] 2020-09-05 21:57:15.730 [main] Outlook - successfuly clicked on Sign in page
+[INFO ] 2020-09-05 21:57:26.566 [main] Outlook - SignUp test case successfully executed
+[INFO ] 2020-09-05 21:57:35.365 [main] Outlook - successfully browser is closed
+[INFO ] 2020-09-05 21:57:50.266 [main] Jiomart - Log Driver Successfully Initialized
+[INFO ] 2020-09-05 21:58:15.949 [main] Jiomart - Signin test case successfully executed
+[INFO ] 2020-09-05 21:58:36.809 [main] Rediff - Log Driver Successfully Initialized
+[INFO ] 2020-09-05 21:58:38.523 [main] Rediff - sign in Link Clicked Successfully
+[INFO ] 2020-09-05 21:58:43.802 [main] Rediff - SignUp test case successfully executed

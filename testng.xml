@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="2">
+  	<listeners>
+		<listener class-name="resources.TestngListener" />
+	</listeners>
+  <test name="Outlook">
+    <classes>
+      <class name="automation.hybridFrameWork.Outlook"/>
+    </classes>
+  </test> <!-- Test -->
+    <test name="Jiomart">
+    <classes>
+       <class name="automation.hybridFrameWork.Jiomart"/>
+    </classes>
+  </test> <!-- Test -->
+      <test name="Rediff">
+    <classes>
+        <class name="automation.hybridFrameWork.Rediff"/>
+    </classes>
+  </test> <!-- Test -->
+  </suite> <!-- Suite -->
