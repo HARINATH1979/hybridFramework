@@ -5,7 +5,8 @@
     <classes>
       <class name="automation.hybridFrameWork.Outlook">
         <methods>
-          <include name="OutlookLogin" invocation-numbers="0"/>
+          <include name="OutlookHome"/>
+          <include name="OutlookLogin"/>
           <include name="initialise"/>
           <include name="driverclose"/>
         </methods>
