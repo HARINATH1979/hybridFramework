@@ -26,7 +26,10 @@ public class Base {
 		String fileLocation = filepath + "\\src\\main\\java\\resources\\data.properties";
 		FileInputStream fis = new FileInputStream(fileLocation);
 		prop.load(fis);
-		webBrowser = prop.getProperty("browser");
+		
+		//invoking Browser Capabilities through maven Command test -Dbrowser=chrome
+		webBrowser=System.getProperty("browser");
+		//webBrowser = prop.getProperty("browser");
 		if (webBrowser.equalsIgnoreCase("IE")) {
 			System.setProperty("webdriver.ie.driver", "C:\\Hari\\installation dump\\Drivers\\IEDriverServer.exe");
 			driver = new InternetExplorerDriver();
