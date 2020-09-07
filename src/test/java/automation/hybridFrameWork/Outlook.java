@@ -26,7 +26,6 @@ public class Outlook {
 		this.driver = driverBase.initializedriver();
 		driver.get("https://www.outlook.com/");
 		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		logger.info("Log Driver Successfully Initialized");
 	}
 
@@ -42,7 +41,10 @@ public class Outlook {
 		OutlookLogin log = new OutlookLogin(driver);
 		log.userid().sendKeys(userid);
 		log.submit().click();
+		Thread.sleep(15000);
 		log.passwd().sendKeys(password);
+		log.button().click();
+		Thread.sleep(10000);
 		log.button().click();
 		logger.info("SignUp test case successfully executed");
 	}
